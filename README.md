@@ -7,5 +7,5 @@
 - 💬 Ask me about any tech stuffs
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/philona-reetha-sebastian/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love playing Chess and Badminton. And I am a great fan of William Zabka and Cobra Kai Series.
+- ⚡ Fun fact: I love playing Chess♟ and Badminton🏸. And I am a great fan of William Zabka and Cobra Kai Series🐍👊.
 
