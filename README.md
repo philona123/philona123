@@ -9,4 +9,3 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love playing Speed Chess♟ and Badminton🏸. And I am a great fan of William Zabka and Cobra Kai Series🐍👊.
 <img src="https://github-readme-stats.vercel.app/api?username=philona123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
