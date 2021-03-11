@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as a Web Development and Designing intern at The Sparks Foundation
-- 🌱 I’m currently learning Nothing😪
+- 🌱 I’m currently learning Nothing😪 (well, DSA if that counts😂)
 - 💬 Ask me about any tech stuffs😁
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/philona-reetha-sebastian/)
 - 😄 Pronouns: She/Her
