@@ -27,9 +27,15 @@
 
 <h4>📊 Github Stats</h4>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philona123&layout=compact&theme=tokyonight" alt="languages" height="165">
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=philona123&show_icons=true&theme=gotham" alt="Philona | Stats" />
  
+ <h4>📊Visitor Count</h4>
+ 
 ![Visitor Count](https://profile-counter.glitch.me/{philona123}/count.svg)
+ 
+
  
 [twitter]: https://twitter.com/Philona1729
 [linkedin]: https://www.linkedin.com/in/philona-reetha-sebastian/
