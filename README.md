@@ -1,4 +1,6 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Philona Reetha Sebastian](https://philona123.github.io/)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
  -->
@@ -26,5 +28,10 @@
 <h4>📊 Github Stats</h4>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=philona123&show_icons=true&theme=gotham" alt="Philona | Stats" />
+ 
+![Visitor Count](https://profile-counter.glitch.me/{philona123}/count.svg)
+ 
+[twitter]: https://twitter.com/Philona1729
+[linkedin]: https://www.linkedin.com/in/philona-reetha-sebastian/
 
 
