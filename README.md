@@ -1,7 +1,7 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Philona Reetha Sebastian](https://philona123.github.io/)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
+<!-- [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-
+ -->
 ### My Tech Toolbox 🧰
 
 <p align="left">
@@ -22,9 +22,9 @@
 * 😄 Pronouns: She/Her
 * 🤩 Fun fact: I love playing Speed Chess♟ and Badminton🏸. And I am a great fan of William Zabka and Cobra Kai Series🐍👊.
 
-<details>
-<summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=philona123&show_icons=true&theme=gotham" alt="Philona | Stats" />
+<h4>📊 Github Stats</h4>
 
-</details>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=philona123&show_icons=true&theme=gotham" alt="Philona | Stats" />
+
+
