@@ -32,7 +32,16 @@
 ![Visitor Count](https://profile-counter.glitch.me/{philona123}/count.svg)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=philona123&show_icons=true&theme=gotham" alt="Philona | Stats" />
- 
+
+<h4>🔥Streak Stats</h4>
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="left">
+  <a href="https://github.com/philona123/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="philona's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=philona123&theme=monokai-metallian&hide_border=true"/>
+  </a>
+<!--   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
+</p>
  
 [twitter]: https://twitter.com/Philona1729
 [linkedin]: https://www.linkedin.com/in/philona-reetha-sebastian/
