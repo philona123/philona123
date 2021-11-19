@@ -19,7 +19,7 @@
 * 🔭 I have worked as a Web developement and design intern at The sparks foundation and also as a Back end developer in hellomunnar.in Progressive Web App.
 * ⭐ Earned Gold badge & 5 star at HackerRank in C++ programming.
 * ⚡ Passionate for learning & exploring new Tech.
-* 🌱 I’m currently learning Nothing😪 (well, DSA if that counts😂).
+* 🌱 I’m currently learning React🤩
 * 💬 Ask me about any tech stuffs🥱
 * 😄 Pronouns: She/Her
 * 🤩 Fun fact: I love playing Speed Chess♟ and Badminton🏸. And I am a great fan of William Zabka and Cobra Kai Series🐍👊.
