@@ -29,6 +29,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philona123&layout=compact&theme=tokyonight" alt="languages" height="165">
 
+<h4>👀Visitors</h4>
 ![Visitor Count](https://profile-counter.glitch.me/{philona123}/count.svg)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=philona123&show_icons=true&theme=gotham" alt="Philona | Stats" />
