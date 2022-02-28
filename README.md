@@ -16,7 +16,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
-* 🔭 I have worked as a Web developement and design intern at The sparks foundation and also as a Backend developer in hellomunnar.in Progressive Web App.
+* 🔭 I have worked as a Web development and design intern at The sparks foundation and also as a Backend developer in hellomunnar.in Progressive Web App.
 * ⭐ Earned Gold badge & 5 star at HackerRank in C++ programming.
 * ⚡ Passionate for learning & exploring new Tech.
 * 🌱 I’m currently learning React and Streamlit
