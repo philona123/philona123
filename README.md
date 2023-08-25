@@ -23,8 +23,7 @@
 🤩
 * 💬 Ask me about any tech stuffs🥱
 * 😄 Pronouns: She/Her
-* 🤩 Fun fact: I love playing Speed Chess♟ and Badminton🏸. And I am a great fan of William Zabka and Cobra Kai Series🐍👊.
-
+* 🤩 Fun fact: I love playing Speed Chess♟ and Badminton🏸.
 
 <h4>📊 Github Stats</h4>
 
